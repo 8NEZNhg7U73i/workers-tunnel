@@ -1,6 +1,6 @@
 # workers-tunnel
 
-[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/zhu327/workers-tunnel/tree/main)
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/8NEZNhg7U73i/workers-tunnel/tree/main)
 
 Edge network tunnel implemented using Cloudflare Workers.
 
